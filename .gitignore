@@ -1,0 +1,11 @@
+# Compiled binaries
+*.o
+*.out
+htop-clone
+
+# Temporary files
+*.tmp
+*~
+
+# Editor files
+.vscode/
